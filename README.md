@@ -13,7 +13,7 @@
 
 <div align="left">
  
-🔭 **Currently:** Working at **Code Academy & One/Zero Group**
+🔭 **Currently:** Working at **Code Academy & ILoyal**
 
 🌱 **Focused on:** Self-improvement, exploring **JavaScript ecosystems**  
 
