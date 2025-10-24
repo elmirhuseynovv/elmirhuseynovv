@@ -24,10 +24,10 @@
  </div>
  
 <div align="left"> 
-  <a href="mailto:elmirhuseynovv789@gmail.com">
+  <a href="mailto:elmirr.huseynovv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/elmirhuseynovv" target="_blank">
+  <a href="https://www.linkedin.com/in/huseynovelmir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://elmir-dev.vercel.app" target="_blank">
@@ -41,11 +41,11 @@
 <br/>
 <div align="left">
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,gulp,sass,tailwind,bootstrap,mui,vscode,github,figma,zustand" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,gulp,sass,tailwind,bootstrap,mui,vscode,github,figma,zustand,gitlab" />
   </a>
 <br/>
  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,next,threejs,vite,redux,nodejs,express,mongodb,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,next,threejs,vite,redux,nodejs,express,mongodb,git,dailydev" />
   </a>
 
 </div>
